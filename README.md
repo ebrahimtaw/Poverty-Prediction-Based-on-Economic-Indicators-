@@ -1,1 +1,0 @@
-# Poverty-Prediction-Based-on-Economic-Indicators-
