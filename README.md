@@ -1,6 +1,6 @@
 # Poverty Prediction Based on Economic Indicators 📊
 
-This project aims to predict the **probability** of a country being poor using logistic regression, based on various economic indicators.
+The project aims to predict the **probability** of a country being poor using logistic regression, based on various economic indicators.
 
 ## Dataset:
 - Sourced from [Kaggle](https://www.kaggle.com/datasets/ophi/mpi)
